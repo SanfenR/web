@@ -10,14 +10,18 @@
   <head>
     <title>image finder</title>
   </head>
-  <body background="#ffffff">
+  <body background="image/bg.jpg">
   <br/>
 
   <br/>
   <center>
-    <form action="upload" enctype="multipart/form-data" method="post" >
-      上传文件：<input type="file" name="file1" height="20" width="100"><br/>
-      <input type="submit" value="提交"/>
+    <img src="image/logo.png" height="100" width="200">
+    <br/>
+    <br/>
+    <form action="Servlet" enctype="multipart/form-data" method="post" >
+      上传文件：<input type="file" name="file1" size="100"><br/>
+
+      <input type="submit" value="提交" size="100"/>
     </form>
   </center>
 

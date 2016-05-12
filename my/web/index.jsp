@@ -15,7 +15,11 @@
 
   <br/>
   <center>
-    <img src="image/logo.png" height="100" width="200">
+    <img src="image/logo.png" width="500">
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <br/>
     <br/>
     <form action="Servlet" enctype="multipart/form-data" method="post" >
@@ -25,5 +29,17 @@
     </form>
   </center>
 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <center class="right-arrow"> <a href="guanyu.jsp">
+    <img src="image/guanyu.png" width="80"/>
+  </a>
+  </center>
   </body>
 </html>
